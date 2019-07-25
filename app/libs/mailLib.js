@@ -1,5 +1,5 @@
 const nodemailer = require('nodemailer');
-const url = "http://localhost:4200"
+const url = "http://meeting.raghavendra-pujar.site"
 
 let sendMail = (receiverMail,subject,html) =>{
   console.log("New Subject "+subject);
