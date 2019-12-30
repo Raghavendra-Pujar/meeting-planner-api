@@ -1,6 +1,13 @@
 # meeting-planner-api
 Api for Meeting Planner Application
 
+APIDOC:
+https://raghavendra-pujar.github.io/meet-apidoc/
+
+EVENTDOC:
+https://raghavendra-pujar.github.io/meet-events-doc/
+
+
 
 Project Description - This project should be a ready to deploy meetings scheduling system. It must have all the features mentioned below and it must be deployed on a server before submission.There should be two separate parts of the application. A Frontend developed and deployed using the technologies mentioned below and a REST API (with realtime functionalities) created using the technologies mentioned below. Frontend Technologies allowed - HTML5, CSS3, JS, Bootstrap and Angular Backend Technologies allowed - NodeJS, ExpressJS and Socket.IO Database Allowed - MongoDB and Redis
 
